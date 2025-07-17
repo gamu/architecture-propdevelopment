@@ -1,7 +1,7 @@
 ## Задание 3. Внешние интеграции
 
 1. [Диаграмма контекста](./c4_context.puml)
-2. [Диаграмма контейнеров](https://drive.google.com/file/d/1N0DE8i7hiqspen98UscWCgN9P-EqfxEl/view?usp=sharing)
+2. [Диаграмма контейнеров]([https://drive.google.com/file/d/1N0DE8i7hiqspen98UscWCgN9P-EqfxEl/view?usp=sharing](https://drive.google.com/file/d/1N0DE8i7hiqspen98UscWCgN9P-EqfxEl/view))
 3. Трнебования
    * Безопасность данных должна соответствовать 152-ФЗ
    * Взаимодействие только по защищенным каналам
